@@ -74,7 +74,7 @@ public class peakIndex {
     public static void main(String[] args) {
         int arr[] = { 0, 2, 3, 6, 2 };
         int ans = peakIndexInMountainArray1(arr);
-        System.out.println("the peak index of the arrray is : " + ans);
+        System.out.println("the Aman index of the arrray is : " + ans);
     }
 
 }
